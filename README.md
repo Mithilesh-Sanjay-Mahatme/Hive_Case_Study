@@ -5,5 +5,5 @@ With online sales gaining popularity, tech companies are exploring ways to impro
 For this assignment, you will be working with a public clickstream dataset of a cosmetics store. Using this dataset, your job is to extract valuable insights which generally data engineers come up within an e-retail company.
 
 You will find the data in the link given below.
-https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv
-https://e-commerce-events-ml.s3.amazonaws.com/2019-Nov.csv
+- https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv
+- https://e-commerce-events-ml.s3.amazonaws.com/2019-Nov.csv
